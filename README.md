@@ -144,4 +144,4 @@ THE SOFTWARE.
 ---
 
 <img src="https://relatedcode.com/screen56/chat01.png" width="290">.<img src="https://relatedcode.com/screen56/call2.png" width="290">.<img src="https://relatedcode.com/screen56/profile1.png" width="290">
-<img src="https://relatedcode.com/screen56/allmediax.png" width="290">.<img src="https://relatedcode.com/screen56/picture1x.png" width="290">.<img src="https://relatedcode.com/screen56/settings_status1x.png" width="290">
+<img src="https://relatedcode.com/screen56/allmediax.png" width="290">.<img src="https://relatedcode.com/screen56/picture1.png" width="290">.<img src="https://relatedcode.com/screen56/settings_status1x.png" width="290">
